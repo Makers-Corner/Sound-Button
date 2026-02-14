@@ -2,7 +2,7 @@
 
 ## Press the button. Play the chaos. Repeat.
 
-## This project is designed to be simple, portable, and perfect for bars, parties, live streams, office chaos device, or annoying your friends on demand.
+## This project is designed to be simple, portable, and perfect for bars, parties, live streams, office chaos, or annoying your friends on demand.
 
 ## *IMPORTANT!!! TEST EVERYTHING BEFORE FINAL ASSEMBLY!!!*
 
