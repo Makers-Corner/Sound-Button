@@ -1,4 +1,4 @@
-## A battery-powered meme sound button built with an ESP32 and I2S audio amplifier.
+## A battery powered meme sound button built with an ESP32 and I2S audio amplifier.
 
 ## Press the button. Play the chaos. Repeat.
 
