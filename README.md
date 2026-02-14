@@ -46,3 +46,7 @@ Mono recommended
 RENAME YOUR AUDIO FILE TO: "clip.wav"
 
 *Sample clip file included. Replace with your own*
+
+## Wiring Diagram
+ 
+<img width="1280" height="720" alt="LED Sign Wiring" src="https://github.com/Makers-Corner/Sound-Button/blob/main/MEME%20Wiring.png" />
