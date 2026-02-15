@@ -37,6 +37,8 @@
 
 - 0.6x7x10 Springs https://amzn.to/3MKMvFR
 
+- Epoxy https://amzn.to/4rQDwli
+
 
 ## 🎵 Audio Format Requirements:
 
