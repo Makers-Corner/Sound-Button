@@ -6,6 +6,8 @@
 
 ## *IMPORTANT!!! TEST EVERYTHING BEFORE FINAL ASSEMBLY!!!*
 
+## *Make sure the audio you upload is what you REALLY want. Once the battery is connected and the device is fully closed up it will be impossible to change. Is this something that can be fixed? Possibly.. Are my arduino skills good enough to do it? Not yet.. If I am able to figure it out in the future I will update accordingly. YOU HAVE BEEN WARNED!*
+
 ## Features
 
 ✅ Single-button audio playback
@@ -16,7 +18,7 @@
 
 📁 WAV file playback from internal storage
 
-📦 Compact and portable design
+📦 Somewhat compact and portable design
 
 
 ## 🛠️ Hardware Used
@@ -25,7 +27,7 @@
 
 - MAX98357A I2S Amplifier https://amzn.to/3ZCRFXq
 
-- 4–8Ω Speaker https://amzn.to/4qEPwFF
+- 4Ω Speaker https://amzn.to/4qEPwFF
 
 - Momentary push button https://amzn.to/4tC0Bd7
 
